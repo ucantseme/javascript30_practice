@@ -4,8 +4,7 @@
 
 #### CSS
 
-這裡運用到flexbox
-[Flexbox](https://www.w3schools.com/Css/css3_flexbox.asp)
+這裡運用到[Flexbox](https://www.w3schools.com/Css/css3_flexbox.asp)
 
 #### JS
 
